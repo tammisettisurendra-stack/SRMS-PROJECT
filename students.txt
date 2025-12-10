@@ -1,0 +1,22 @@
+----- ALL STUDENTS -----
+
+ID: AP24110010112
+Name: S.Vignesh
+Branch: B.Tech
+Section: C
+CGPA: 9.50
+Phone: 9900987600
+
+ID: AP24110010149
+Name: G.Vaibhav
+Branch: B.Tech
+Section: C
+CGPA: 8.60
+Phone: 7013431249
+
+ID: AP24110010113
+Name: P.Bala Prakash
+Branch: CSE
+Section: C
+CGPA: 8.90
+Phone: 7088345678
